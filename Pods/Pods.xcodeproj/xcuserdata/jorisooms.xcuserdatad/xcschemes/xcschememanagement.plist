@@ -9,6 +9,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>NVActivityIndicatorView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-pokedex.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -19,20 +24,35 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>SwiftyJSON.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>35E5FE655AF5E191117A472E285D6FFD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>54D901B41B9970AD2A436569FA891F97</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>626D49AD18621B0A3059EE726B27AE89</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>79C040AFDDCE1BCBF6D8B5EB0B85887F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>C17FAAB73028D85CE4591E3665FF1FC4</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>FC3D1CB6A58D30AFE01B729760612A50</key>
+		<key>904B3438C3687AE1AB077683761C2E85</key>
 		<dict>
 			<key>primary</key>
 			<true/>

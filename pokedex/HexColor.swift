@@ -20,6 +20,5 @@ extension UIColor {
         )
         
         self.init(red: components.R, green: components.G, blue: components.B, alpha: 1)
-        
     }
 }

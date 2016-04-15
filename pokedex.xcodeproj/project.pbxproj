@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4409A6731CC143BC004EA6BA /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4409A6721CC143BC004EA6BA /* Constants.swift */; };
 		4422AFA91CC0F5C300CB20D4 /* pokemon.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4422AFA81CC0F5C300CB20D4 /* pokemon.ttf */; };
 		4422AFAD1CC0F8E000CB20D4 /* audio.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4422AFAC1CC0F8E000CB20D4 /* audio.mp3 */; };
 		4422AFAF1CC1054000CB20D4 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4422AFAE1CC1054000CB20D4 /* DetailViewController.swift */; };
@@ -25,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4409A6721CC143BC004EA6BA /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		4422AFA81CC0F5C300CB20D4 /* pokemon.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = pokemon.ttf; sourceTree = "<group>"; };
 		4422AFAC1CC0F8E000CB20D4 /* audio.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = audio.mp3; sourceTree = "<group>"; };
 		4422AFAE1CC1054000CB20D4 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
@@ -103,9 +105,10 @@
 				442A2C961CC0DE7F000509FA /* View */,
 				442A2C931CC0D7F6000509FA /* Model */,
 				442A2C7F1CC0D480000509FA /* AppDelegate.swift */,
+				4409A6721CC143BC004EA6BA /* Constants.swift */,
 				442A2C831CC0D480000509FA /* Main.storyboard */,
-				442A2C861CC0D480000509FA /* Assets.xcassets */,
 				442A2C881CC0D480000509FA /* LaunchScreen.storyboard */,
+				442A2C861CC0D480000509FA /* Assets.xcassets */,
 				442A2C8B1CC0D480000509FA /* Info.plist */,
 			);
 			path = pokedex;
@@ -296,6 +299,7 @@
 				447098511CC12D86003B4FB6 /* StatsTitleLabel.swift in Sources */,
 				442A2C981CC0DEBB000509FA /* PokemonCollectionViewCell.swift in Sources */,
 				442A2C951CC0D7FD000509FA /* Pokemon.swift in Sources */,
+				4409A6731CC143BC004EA6BA /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

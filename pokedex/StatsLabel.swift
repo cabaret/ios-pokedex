@@ -10,7 +10,7 @@ import UIKit
 
 class StatsLabel: UILabel {
     override func awakeFromNib() {
-        self.font = UIFont(name: "HelveticaNeue-regular", size: 15.0)
+        self.font = UIFont(name: "HelveticaNeue", size: 12.0)
         self.textColor = UIColor(hex: 0x333333)
     }
 }

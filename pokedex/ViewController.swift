@@ -8,7 +8,6 @@
 
 import UIKit
 import AVFoundation
-import Alamofire
 import SwiftCSV
 
 class ViewController: UIViewController,

@@ -85,9 +85,13 @@ strip_invalid_archs() {
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "Pods-pokedex/Alamofire.framework"
+  install_framework "Pods-pokedex/NVActivityIndicatorView.framework"
   install_framework "Pods-pokedex/SwiftCSV.framework"
+  install_framework "Pods-pokedex/SwiftyJSON.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "Pods-pokedex/Alamofire.framework"
+  install_framework "Pods-pokedex/NVActivityIndicatorView.framework"
   install_framework "Pods-pokedex/SwiftCSV.framework"
+  install_framework "Pods-pokedex/SwiftyJSON.framework"
 fi
