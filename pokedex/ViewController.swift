@@ -142,7 +142,6 @@ class ViewController: UIViewController,
         if segue.identifier == "DetailViewController" {
             if let viewController = segue.destinationViewController as? DetailViewController {
                 if let pokemon = sender as? Pokemon {
-                    
                     viewController.pokemon = pokemon
                 }
             }

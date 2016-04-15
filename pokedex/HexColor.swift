@@ -1,6 +1,6 @@
 //
 //  HexColor.swift
-//  defaultsforfun
+//  pokedex
 //
 //  Created by Joris Ooms on 14/04/16.
 //  Copyright © 2016 Cup of Code. All rights reserved.
